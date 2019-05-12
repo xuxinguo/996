@@ -3,4 +3,4 @@ for i in range(1, 10):
         print("%dx%d=%-3d" % (i, j, i*j). end="")
     print()
     print("九九乘法表")
-    
+print("baba")    
